@@ -54,7 +54,7 @@ Prototypes levels: That's some testing/prototypes maps.
 
 ```
 Cycles: List of every maps cycles
-Hellikus: Hellikus secrets solutions
+Hellikus: Solutions of Hellikus secrets 
 ```
 ###  How to use the cycle list?
 
