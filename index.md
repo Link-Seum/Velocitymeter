@@ -11,10 +11,10 @@ layout: default
 * * *
 
 ## In Game features
-<img src="/image/velocity.png" alt="VelocityMeter" width="45%" height="45%">
-<img src="/image/velocitymaps.png" alt="VelocityMeter" width="45%" height="45%">
-<img src="/image/velocitytip.png" alt="VelocityMeter" width="45%" height="45%">
-<img src="/image/velocitysettings.png" alt="VelocityMeter" width="45%" height="45%">
+<img src="./image/velocity.png" alt="VelocityMeter" width="45%" height="45%">
+<img src="./image/velocitymaps.png" alt="VelocityMeter" width="45%" height="45%">
+<img src="./image/velocitytip.png" alt="VelocityMeter" width="45%" height="45%">
+<img src="./image/velocitysettings.png" alt="VelocityMeter" width="45%" height="45%">
 <br>
 
 - #### Meter options:
@@ -71,7 +71,7 @@ Theme editor
 
 * * *
 ## Pre-game features
-<img src="/image/pregame.png" alt="pregame" width="100%" height="100%">
+<img src="./image/pregame.png" alt="pregame" width="100%" height="100%">
 
 - #### Settings:
 
@@ -91,13 +91,13 @@ Add the number you want and press 'set' to 'scroll' the leaderboad
 
 New items, new themes, entities counters, new binds and more has been added on the level editor.
 
-<img src="/image/editor1.png" alt="pregame" width="80%" height="80%">
+<img src="./image/editor1.png" alt="pregame" width="80%" height="80%">
 
 A little menu has been added too.
 
 The items on this menu will make your level editor bugged, so add them at the end and save your level before !
 
-<img src="/image/menu.png" alt="pregame" width="80%" height="80%">
+<img src="./image/menu.png" alt="pregame" width="80%" height="80%">
 
 ## Download
 
@@ -114,8 +114,8 @@ Use `Y` in game to open or `F1` for information.
 <balise id="download"></balise>
 
 ### Download file:
-<a href="/doc/Assembly-CSharp.dll" download>
-  <img src="/image/filedownload.png" alt="file download" width="20%" height="20%">
+<a href="./doc/Assembly-CSharp.dll" download>
+  <img src="./image/filedownload.png" alt="file download" width="20%" height="20%">
 </a><br>
 &nbsp;&nbsp;Assembly-CSharp.dll
 
