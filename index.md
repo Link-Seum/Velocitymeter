@@ -6,7 +6,7 @@ layout: default
 # Velocitymeter
 
 ###  What is it ?
-<p>The Velocitymeter is a plugin for Seum that it will help you while you are playing. Indeed, you can display your speed, angles, height and more. You can increase your fps, switch faster between the secrets maps, displaying a race ghost, improve the level editor and more. <br>Every options and the <a href="#download">download</a> file are listed below. </p>
+<p>The Velocitymeter is a plugin for Seum, it can be useful for you. Indeed, you can display your speed, angles,jump height and more. You can increase your fps, switch faster between the secrets/helikus maps, displaying a race ghost, improve your level editor and more. <br>Every options and the <a href="#download">download file</a> are listed below. </p>
 
 * * *
 
@@ -103,7 +103,7 @@ The items on this menu will make your level editor bugged, so add them at the en
 
 * * *
 ###  How to install ?
-Download the file Assembly-CSharp.dll below, replace the file here: 
+Download the file Assembly-CSharp.dll below, replace the file (Make sure to have the same name to replace it), here:
 ```
 C:\Program Files (x86)\Steam\steamapps\common\SEUM Speedrunners from Hell\Seum_Data\Managed
 ```
