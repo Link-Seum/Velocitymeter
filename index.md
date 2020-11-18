@@ -77,14 +77,14 @@ Do not forget to save your settings by pressing `Save all settings`, to avoid an
 ## Pre-game features
 <img src="./image/pregame.png" alt="pregame" width="100%" height="100%">
 
-- #### Settings:
+- #### Seasons selector:
 
 ```
 Season selector: You can change your season to see the old seasons.
 You cannot upload your runs on the old replays, you can only see the replays.
 Sadly, devs erased the old leaderboards.
 ```
-- #### Settings:
+- #### Leaderboard range editor:
 
 ```
 Leaderboard range editor: ebove every lb, you can see a little box.
