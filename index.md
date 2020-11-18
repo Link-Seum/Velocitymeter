@@ -44,7 +44,7 @@ You can edit the color and and the opacity of the ghost.
 - #### Maps Menu:
 
 ```
-You can enter a secret level by clicking on his number.
+You can enter in a secret level by clicking on his number.
 
 Unreleased levels: You can try some unreleased maps .
 Prototypes levels: That's some testing/prototypes maps.
