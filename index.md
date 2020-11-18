@@ -129,7 +129,7 @@ Use `Y` in game to open or `F1` for information.
 &nbsp;&nbsp;Assembly-CSharp.dll
 
 ###  How to uninstall ?
-<p>Delete the Assembly-CSharp.dll file from Manager folder, then, on steam, on Seum game -> properties -> local files -> Verify integrity of game files...  </p>
+<p>Delete the Assembly-CSharp.dll file from Manager folder, then go on steam, Seum game -> properties -> local files -> Verify integrity of game files...  </p>
 
 <div class="footer">
 <img id="id1" src="" alt="" />
