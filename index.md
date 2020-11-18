@@ -69,6 +69,10 @@ Colors editor
 Theme editor
 ```
 
+- #### Saving settings:
+
+Do not forget to save your settings by pressing `Save all settings`, to avoid any reset after every game restart.
+
 * * *
 ## Pre-game features
 <img src="./image/pregame.png" alt="pregame" width="100%" height="100%">
