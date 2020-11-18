@@ -6,7 +6,7 @@ layout: default
 # Velocitymeter
 
 ###  What is it ?
-<p>The Velocitymeter is a plugin for Seum, it can be useful for you. Indeed, you can display your speed, angles,jump height and more. You can increase your fps, switch faster between the secrets/helikus maps, displaying a race ghost, improve your level editor and more. <br>Every options and the <a href="#download">download file</a> are listed below. </p>
+<p>The Velocitymeter is a plugin for Seum with many advanced features. Indeed, you can display your speed, angles, jump height and more. You can increase your fps, switch faster between the secrets/helikus maps, displaying a race ghost, improve your level editor and more. <br>Every options and the <a href="#download">download file</a> are listed below. </p>
 
 * * *
 
@@ -118,6 +118,9 @@ Use `Y` in game to open or `F1` for information.
   <img src="./image/filedownload.png" alt="file download" width="20%" height="20%">
 </a><br>
 &nbsp;&nbsp;Assembly-CSharp.dll
+
+###  How to uninstall ?
+<p>Delete the Assembly-CSharp.dll file from Manager folder, then, on steam, on Seum game -> properties -> local files -> Verify integrity of game files...  </p>
 
 <div class="footer">
 <img id="id1" src="" alt="" />
