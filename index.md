@@ -102,9 +102,10 @@ A little menu has been added too.
 The items on this menu will make your level editor bugged, so add them at the end and save your level before !
 
 <img src="./image/menu.png" alt="pregame" width="80%" height="80%">
+* * *
 
 ## Wireframe
-* * *
+
 You can enable the wireframe option by pressing `F8` or disable it with `F9`.<br>
 It is recommended to enable the "no theme" and "no particles" options.
 
@@ -112,9 +113,10 @@ It is recommended to enable the "no theme" and "no particles" options.
 <img src="./image/wireframe.png" alt="VelocityMeter" width="50%" height="50%">
 <img src="./image/wireframe1.png" alt="VelocityMeter" width="40.1%" height="40.1%">
 
+* * *
+
 ## Download
 
-* * *
 ###  How to install ?
 Download the file Assembly-CSharp.dll below, replace the file (Make sure to have the same name to replace it), here:
 ```
@@ -131,6 +133,7 @@ Use `Y` in game to open or `F1` for information.
   <img src="./image/filedownload.png" alt="file download" width="20%" height="20%">
 </a><br>
 &nbsp;&nbsp;Assembly-CSharp.dll
+<br><br>
 
 ###  How to uninstall ?
 <p>Delete the Assembly-CSharp.dll file from Manager folder, then go on steam, Seum game -> properties -> local files -> Verify integrity of game files...  </p>
