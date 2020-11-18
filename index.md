@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# Velocitymeter
+# Velocitymeter 
 
 ###  What is it ?
 <p>The Velocitymeter is a plugin for Seum with many advanced features. Indeed, you can display your speed, angles, jump height and more. You can increase your fps, switch faster between the secrets/helikus maps, displaying a race ghost, improve your level editor and more. <br>Every options and the <a href="#download">download file</a> are listed below. </p>
@@ -106,7 +106,7 @@ The items on this menu will make your level editor bugged, so add them at the en
 ## Wireframe
 * * *
 You can enable the wireframe option by pressing `F8` or disable it with `F9`.<br>
-It is recommended to activate to enable the "no theme" and "no particles" options.
+It is recommended to enable the "no theme" and "no particles" options.
 
 <img src="./image/wireframeoption.png" alt="VelocityMeter" width="30%" height="30%"><br>
 <img src="./image/wireframe.png" alt="VelocityMeter" width="50%" height="50%">
