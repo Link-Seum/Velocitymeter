@@ -99,6 +99,15 @@ The items on this menu will make your level editor bugged, so add them at the en
 
 <img src="./image/menu.png" alt="pregame" width="80%" height="80%">
 
+## Wireframe
+* * *
+You can enable the wireframe option by pressing `F8` or disable it with `F9`.<br>
+It is recommended to activate to enable the "no theme" and "no particles" options.
+
+<img src="./image/wireframeoption.png" alt="VelocityMeter" width="30%" height="30%"><br>
+<img src="./image/wireframe.png" alt="VelocityMeter" width="50%" height="50%">
+<img src="./image/wireframe1.png" alt="VelocityMeter" width="40.1%" height="40.1%">
+
 ## Download
 
 * * *
