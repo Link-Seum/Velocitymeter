@@ -87,7 +87,7 @@ Sadly, devs erased the old leaderboards.
 - #### Leaderboard range editor:
 
 ```
-Leaderboard range editor: ebove every lb, you can see a little box.
+Leaderboard range editor: above every lb, you can see a little box.
 Add the number you want and press 'set' to 'scroll' the leaderboad
 ```
 * * *
