@@ -38,7 +38,7 @@ Ghost replay: enable it to see the ghost of the player you want
 
 Enable it, choose a replay (load it) then press the `shift` key to load the ghost of this replay. <br>
 Start you run and you will see his ghost.
-You can edit the color and and the opacity of the ghost.
+You can edit the color and the opacity of the ghost.
 
 
 - #### Maps Menu:
