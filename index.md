@@ -80,7 +80,7 @@ Do not forget to save your settings by pressing `Save all settings`, to avoid an
 - #### Seasons selector:
 
 ```
-Season selector: You can change your season to see the old seasons.
+Seasons selector: You can change your season to see the old seasons.
 You cannot upload your runs on the old replays, you can only see the replays.
 Sadly, devs erased the old leaderboards.
 ```
