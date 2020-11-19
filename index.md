@@ -124,7 +124,7 @@ C:\Program Files (x86)\Steam\steamapps\common\SEUM Speedrunners from Hell\Seum_D
 ```
 ###  How to open ?
 
-Use `Y` in game to open or `F1` for information.
+Use `Y` in game to open or `F1` for information and credit.
 
 <balise id="download"></balise>
 
