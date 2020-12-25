@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# Velocitymeter 
+# Velocitymeter  
 
 ###  What is it ?
 <p>The Velocitymeter is a plugin for Seum with many advanced features. Indeed, you can display your speed, angles, jump height, set a cycle, increase your fps, switch faster between the secrets/helikus maps, displaying a race ghost, improve your level editor and more. <br>Every options and the <a href="#download">download file</a> are listed below. </p>

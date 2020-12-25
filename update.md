@@ -1,6 +1,15 @@
 ---
 layout: update
 ---
+#### 25 Dev 2020:
+
+```
+• Removed "ambiant color" option
+• Fixed crosshair in replays
+• Added an option to resize the menu
+• Added an option to change the position of player information
+• Reorganization of Ghost options
+```
 
 #### 12 Nov 2020:
 
