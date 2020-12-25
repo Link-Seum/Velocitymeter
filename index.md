@@ -139,7 +139,8 @@ Use `Y` in game to open or `F1` for information and credit.
 <p>Delete the Assembly-CSharp.dll file from Manager folder, then go on steam, Seum game -> properties -> local files -> Verify integrity of game files...  </p>
 
 ###  Credits
-<p>Link 
+```
+Link 
 MrGentle
 Judgy
 chrisstar123
@@ -147,7 +148,8 @@ Sirius
 Snail
 ZM
 Royal
-Klooger</p>
+Klooger
+```
 
 <div class="footer">
 <img id="id1" src="" alt="" />
