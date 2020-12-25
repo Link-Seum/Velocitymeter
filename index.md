@@ -44,10 +44,10 @@ You can edit the color and the opacity of the ghost.
 - #### Maps Menu:
 
 ```
-You can enter in a secret level by clicking on his number.
+You can enter in a secret level by clicking on his number
 
-Unreleased levels: You can try some unreleased maps .
-Prototypes levels: That's some testing/prototypes maps.
+Unreleased levels: You can try some unreleased maps
+Prototypes levels: That's some testing/prototypes maps
 ```
 
 - #### Game Tips:
@@ -80,14 +80,14 @@ Do not forget to save your settings by pressing `Save all settings`, to avoid an
 - #### Seasons selector:
 
 ```
-Seasons selector: You can change your season to see the old seasons.
-You cannot upload your runs on the old replays, you can only see the replays.
+Seasons selector: You can change your season to see the old seasons
+You cannot upload your runs on the old replays, you can only see the replays
 Sadly, devs erased the old leaderboards.
 ```
 - #### Leaderboard range editor:
 
 ```
-Leaderboard range editor: above every lb, you can see a little box.
+Leaderboard range editor: above every lb, you can see a little box
 Add the number you want and press 'set' to 'scroll' the leaderboad
 ```
 * * *
