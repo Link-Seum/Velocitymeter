@@ -1,7 +1,7 @@
 ---
 layout: update
 ---
-#### 25 Dev 2020:
+#### 25 Dec 2020:
 
 ```
 • Removed "ambiant color" option
