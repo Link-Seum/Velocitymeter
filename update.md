@@ -1,6 +1,17 @@
 ---
 layout: update
 ---
+
+
+#### 29 Dec 2020:
+
+```
+• Fixed saving Threshold values
+• Added last run peaks list
+How to use the last run peaks:
+enable peaks + autoreset and set the max peaks value you want to display
+```
+
 #### 25 Dec 2020:
 
 ```
