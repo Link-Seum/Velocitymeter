@@ -1,7 +1,11 @@
 ---
 layout: update
 ---
+#### 10 May 2021:
 
+```
+• Added beers checker on the level selector
+```
 
 #### 29 Dec 2020:
 
