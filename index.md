@@ -155,5 +155,5 @@ Klooger
 <img id="id1" src="" alt="" />
 ▬
 <br>
- Made by Link | @Link#3779 on discord
+ @Link#3779 on discord
 </div>
