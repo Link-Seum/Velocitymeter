@@ -17,7 +17,8 @@ layout: default
 ## Vmeter Beta DLC2
 
 - #### Prototypes maps list:
-<img src="./image/vmeterdlc.png" alt="vmeterdlc" width="30%" height="30%">
+
+<img src="./image/vmeterdlc.png" alt="vmeterdlc" width="40%" height="40%">
 
 ```
 Go Around
@@ -49,7 +50,7 @@ Tornado Blist
 
 - #### Mutator selector:
 
-<img src="./image/vmeterdlc2.png" alt="vmeterdlc2" width="30%" height="30%">
+<img src="./image/vmeterdlc2.png" alt="vmeterdlc2" width="40%" height="40%">
 
 - #### Level Editor:
 
