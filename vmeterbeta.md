@@ -62,7 +62,7 @@ New powerup
 
 - #### New powerup:
 
-<img src="./image/Acrobatics.png" alt="vmeterdlc2" width="100%" height="100%">
+<img src="./image/Acrobatics.png" alt="vmeterdlc2" width="30%" height="30%">
 
 - #### Todo list:
 
