@@ -60,6 +60,18 @@ New powerup
 ```
 <img src="./image/vmeterdlclevel.png" alt="vmeterdlc2" width="100%" height="100%">
 
+- #### New powerup:
+
+<img src="./image/Acrobatics.png" alt="vmeterdlc2" width="100%" height="100%">
+
+- #### Todo list:
+
+```
+Level editor:
+• Add all the stuff from the old vmeter
+• Fix bug with mutator selector on hidden maps
+```
+
 - #### Known bugs:
 
 ```
