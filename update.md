@@ -1,6 +1,12 @@
 ---
 layout: update
 ---
+#### 20 August 2024:
+
+```
+• Added vmeter for the beta with the new powerup and prototypes maps to get a rpeview of the new dlc 2.
+```
+
 #### 10 May 2021:
 
 ```
