@@ -60,6 +60,13 @@ New powerup
 ```
 <img src="./image/vmeterdlclevel.png" alt="vmeterdlc2" width="100%" height="100%">
 
+- #### Known bugs:
+
+```
+Sometimes, the mutator doesnt work on the prototypes maps, you need to leave to the menu then go again inside.
+I am looking to fix it.
+```
+
 ## Download
 
 ###  How to install ?
