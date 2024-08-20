@@ -63,7 +63,7 @@ New powerup
 ## Download
 
 ###  How to install ?
-Download the file Assembly-CSharp_DLC2.dll below, rename it Assembly-CSharp.dll,, replace the file (Make sure to have the same name to replace it), here:
+Download the file Assembly-CSharp_DLC2.dll below, rename it Assembly-CSharp.dll, replace the file (Make sure to have the same name to replace it), here:
 ```
 C:\Program Files (x86)\Steam\steamapps\common\SEUM Speedrunners from Hell\Seum_Data\Managed
 ```
@@ -77,7 +77,7 @@ Use `Y` in game to open or `F1` for information and credit.
 <a href="./doc/Assembly-CSharp_DLC2.dll" download>
   <img src="./image/filedownload.png" alt="file download" width="20%" height="20%">
 </a><br>
-&nbsp;&nbsp;Assembly-CSharp.dll
+&nbsp;&nbsp;Assembly-CSharp_DLC2.dll
 <br><br>
 
 ###  How to uninstall ?
