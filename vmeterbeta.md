@@ -6,7 +6,7 @@ layout: default
 # Velocitymeter  
 
 ###  DLC2 ?
-<p>Following the temporary pause of Seum, I have obtained permission from the developers at Pine Studio (Tom and SuperJura) as well as Sirius (thanks to them), to give you an exclusive preview of the upcoming DLC, including prototype maps and the new power through the Vmeter. <br><br>This will allow you to test and identify potential bugs. <br><br>Please refrain from contacting the developers, as the project is currently on standby from their side. </p>
+<p>Following the temporary pause of Seum, I have obtained permission from the developers at Pine Studio (Tom and SuperJura) as well as Sirius (thanks to them), to give you an exclusive preview of the upcoming DLC, including prototype maps and the new power through the Vmeter. <br><br>This will allow you to test and identify potential bugs. <br><br>Please refrain from contacting the developers, as the project is currently on standby from their side. <br><br> You need to be on the beta build bleeding-edge, released in 2021 to try this preview of the futur DLC2.</p>
 
 * * *
 
