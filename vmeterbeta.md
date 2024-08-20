@@ -64,8 +64,8 @@ New powerup
 
 <p> The new powerup is named Acrobatics. <br> This new powerup allows you to perform a double jump as well as a downward dash.</p>
 
-<img src="./image/PWacrobatics.png" alt="vmeterdlc2" width="20%" height="20%">
-<img src="./image/PW.png" alt="vmeterdlc2" width="20%" height="20%">
+<img src="./image/PWacrobatics.png" alt="PowerupAcrobatics" width="40%" height="40%">
+
 
 - #### Todo list:
 
