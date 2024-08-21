@@ -11,7 +11,15 @@ layout: default
 * * *
 
 ## Connect to the beta
-<p>Beta Code: ReallyBackupYourSaves<br><br>Don't forget to make a copy of your files at C:\Users\user\AppData\LocalLow\Pine Studio\Seum beforehand, as you will lose your save when you switch back to the non-beta version.</p>
+<p>Beta Code: ReallyBackupYourSaves<br>
+
+<img src="./image/add_code.png" alt="vmeterdlc" width="60%" height="60%">
+
+<p>Choose the bleeding edge beta</p>
+
+<img src="./image/beta_dlc.png" alt="vmeterdlc" width="60%" height="60%">
+
+<br>Don't forget to make a copy of your files at C:\Users\user\AppData\LocalLow\Pine Studio\Seum beforehand, as you will lose your save when you switch back to the non-beta version.</p>
 <br />
 
 ## Vmeter Beta DLC2
